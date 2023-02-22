@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ally</string>
+    <string name="select">Select Item</string>
+    <string name="visit_fcc_website">Visit FCC website</string>
+    <string name="visit_snap_benefits">Visit SNAP benefits</string>
+</resources>
